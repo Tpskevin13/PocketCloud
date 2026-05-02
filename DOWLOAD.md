@@ -7,8 +7,8 @@ Install this on the Android device you want to use as your personal cloud server
 
 # Client App (C1 — main device)
 Install this on the Android device you want to use to access your files.
-[⬇️ Download PocketCloud Client]
-(YOUR_LINK_HERE)
+⬇️ Download PocketCloud Client
+https://github.com/Tpskevin13/PocketCloud/releases/tag/v1.0.0
 
 # Remote Access (optional)
 To access your files from outside your home network, install Tailscale on both devices.
