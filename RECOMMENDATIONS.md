@@ -43,7 +43,7 @@ Get the most out of PocketCloud with these tips and recommendations.
 
 ---
 
-## 🛠️ Freeing Up Space on C2 with Shizuku + Canta
+## 🛠️ Freeing Up Space on C2 with Shizuku + Canta (Android 12)
 
 If your server device (C2) comes with a lot of pre-installed bloatware (Google apps, manufacturer apps, etc.), you can safely remove them to free up RAM and storage using **Shizuku** and **Canta**.
 
