@@ -63,7 +63,7 @@ PocketCloud consists of two companion apps:
 
 ## Download
 
-See [download.md](download.md) for the latest APKs.
+See [download.md](https://github.com/Tpskevin13/PocketCloud/blob/main/DOWLOAD.md) for the latest APKs.
 
 ---
 
