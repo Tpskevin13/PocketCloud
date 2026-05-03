@@ -12,7 +12,7 @@ PocketCloud is a free, open-source solution that lets you use an old Android dev
 
 ## Screenshots
 
-<img src="screenshots/a1.png" width="1000"> 
+<img src="screenshots/a3.png" width="1000"> 
 <img src="screenshots/a2.png" width="1000">
 
 ---
