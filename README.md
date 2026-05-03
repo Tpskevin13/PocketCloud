@@ -1,8 +1,19 @@
+![License](https://img.shields.io/badge/license-GPL--3.0-blue)
+![Platform](https://img.shields.io/badge/platform-Android-green)
+![Min SDK](https://img.shields.io/badge/minSdk-31-orange)
+
 # PocketCloud ☁️
 
 **Turn your old Android phone into a personal cloud server.**
 
 PocketCloud is a free, open-source solution that lets you use an old Android device as a private file server, accessible from your main phone over Wi-Fi or the internet — no subscriptions, no third-party cloud, no data leaving your hands.
+
+---
+
+## Screenshots
+
+<img src="screenshots/a1.png" width="1000"> 
+<img src="screenshots/a2.png" width="1000">
 
 ---
 
@@ -52,7 +63,16 @@ PocketCloud consists of two companion apps:
 
 ## Download
 
-See [download.md](https://github.com/Tpskevin13/PocketCloud/blob/main/dowload.md) for the latest APKs.
+See [download.md](download.md) for the latest APKs.
+
+---
+
+## Security
+
+Both APKs have been scanned and verified clean by VirusTotal:
+
+- [PocketCloud Client — VirusTotal Report](https://www.virustotal.com/gui/file/48879a071e3b5a6fe4d1e89a5496bfc691942420ee66a10bf1c2e0c663cf885e)
+- [PocketCloud Server — VirusTotal Report](https://www.virustotal.com/gui/file/f2662adc7a3c2bc6069afdee7577d5aa78693e551a0a03bd7b90cd0cc139cedf)
 
 ---
 
@@ -72,12 +92,22 @@ To access your files from outside your home network, install [Tailscale](https:/
 
 ---
 
-## License
+## Support
 
-GPL-3.0 — free to use, modify, and distribute.
+If you find PocketCloud useful, consider supporting the project:
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kevindibella)
+
+See [support.md](support.md) for more ways to help.
 
 ---
 
-## Support
+## Contributing
 
-If you find PocketCloud useful, consider starring the repo ⭐ or contributing on [GitHub](https://github.com/Tpskevin13/PocketCloud/blob/main/support.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## License
+
+GPL-3.0 — free to use, modify, and distribute.
