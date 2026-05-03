@@ -39,5 +39,4 @@ PocketCloud was built with security in mind:
 
 Both APKs have been scanned and verified clean:
 
-- [PocketCloud Client](https://www.virustotal.com/gui/file/48879a071e3b5a6fe4d1e89a5496bfc691942420ee66a10bf1c2e0c663cf885e)
-- [PocketCloud Server](https://www.virustotal.com/gui/file/f2662adc7a3c2bc6069afdee7577d5aa78693e551a0a03bd7b90cd0cc139cedf)
+- [VirusTotal Report](https://github.com/Tpskevin13/PocketCloud/blob/main/VIRUSTOTAL.md)
