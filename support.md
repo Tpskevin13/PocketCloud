@@ -6,6 +6,14 @@ If you find it useful, here are some ways you can support the project:
 
 ---
 
+## ☕ Buy me a coffee
+
+If PocketCloud saved you money on cloud storage, consider buying me a coffee!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kevindibella)
+
+---
+
 ## ⭐ Star the repo
 
 The simplest way to support — just hit the star button at the top of the page. It helps others discover the project.
