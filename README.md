@@ -25,7 +25,7 @@ UI: Jetpack Compose + Material Design 3
 Server: Ktor (Netty engine) embedded in Android
 Client: Ktor HTTP Client
 Security: JWT, BCrypt, EncryptedSharedPreferences
-Min SDK: 26 (Android 8)
+Min SDK: 31 (Android 11)
 
 # Remote Access
 For access outside your home network, pair both devices with Tailscale (free, open-source VPN) and use your Tailscale IP as the server address.
