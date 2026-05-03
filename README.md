@@ -98,7 +98,7 @@ If you find PocketCloud useful, consider supporting the project:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kevindibella)
 
-See [support.md](support.md) for more ways to help.
+See [support.md](https://github.com/Tpskevin13/PocketCloud/blob/main/SUPPORT.md) for more ways to help.
 
 ---
 
