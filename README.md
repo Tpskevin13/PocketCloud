@@ -80,4 +80,4 @@ GPL-3.0 — free to use, modify, and distribute.
 
 ## Support
 
-If you find PocketCloud useful, consider starring the repo ⭐ or contributing on [GitHub](https://github.com/Tpskevin13/PocketCloud).
+If you find PocketCloud useful, consider starring the repo ⭐ or contributing on [GitHub](https://github.com/Tpskevin13/PocketCloud/blob/main/support.md).
