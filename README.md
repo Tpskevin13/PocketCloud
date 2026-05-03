@@ -104,7 +104,7 @@ See [support.md](https://github.com/Tpskevin13/PocketCloud/blob/main/SUPPORT.md)
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+See [CONTRIBUTING.md](https://github.com/Tpskevin13/PocketCloud/blob/main/CONTRIBUTING.md) for guidelines.
 
 ---
 
