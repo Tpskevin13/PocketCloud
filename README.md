@@ -68,9 +68,7 @@ See [download.md](https://github.com/Tpskevin13/PocketCloud/blob/main/DOWLOAD.md
 
 ## Security
 
-Both APKs have been scanned and verified clean by VirusTotal:
-
-- [VirusTotal Report](https://github.com/Tpskevin13/PocketCloud/blob/main/VIRUSTOTAL.md)
+PocketCloud is built with security in mind. See our full [Security Policy](https://github.com/Tpskevin13/PocketCloud/blob/main/SECURITY.md) for details including vulnerability reporting and VirusTotal reports.
 
 
 ---
