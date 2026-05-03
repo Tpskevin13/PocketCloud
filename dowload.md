@@ -10,6 +10,7 @@ Install this on the Android device you want to use to access your files.
 ⬇️ Download PocketCloud Client
 https://github.com/Tpskevin13/PocketCloud/releases/tag/v1.0.0
 
+## tailscale
 To access your files from outside your home network, install Tailscale on both devices.
 ⬇️ Download Tailscale
 https://tailscale.com/download/android
